@@ -11,8 +11,8 @@ Silence is golden.
 
 
 ### About me
-- Nickname: **Feri** or **Anos**
-- Realname: **[REDACTED]**
+- Nickname: **Kuhaku** or **Anos**
+- Realname: **[Feri]**
 - Don't know how to code, use github for git and hub.
 - Baka!
 - You may have seen my name on the internet multiple time, or may not. However there is only one FeriEXP :)
