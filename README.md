@@ -11,7 +11,6 @@ Silence is golden.
 
 
 ### About me
-- Nickname: **Kuhaku** or **Anos**
 - Realname: **[Feri]**
 - Don't know how to code, use github for git and hub.
 - Baka!
