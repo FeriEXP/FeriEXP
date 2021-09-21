@@ -2,21 +2,19 @@
 
 
 # About me
-- Realname: **[Feri]**
-- Don't know how to code, use github for git and hub.
-- Baka!
-- You may have seen my name on the internet multiple time, or may not. However there is only one FeriEXP :)
+- Nama: **[Feri]**
+- Status : Jomblo
+- Umur : 17
+- Fav : korea, japan 
+- Asal : Jawa timur/Trenggalek
+- zodiak : Pisces
 
 
 ### Skills
-- sleep (100%)
-- eat (100%)
-- breath (100%)
-- learn how to code (-1%)
-
-
-### Fav manga, light novel, anime
-- Too much, cannot be listed here.
+- Tidur (100%)
+- Makan (100%)
+- Coli (100%)
+- Belajar kode (-1%)
 
 
 ### Stats:
