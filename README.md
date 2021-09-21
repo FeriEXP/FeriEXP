@@ -1,3 +1,6 @@
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xflicks) 
+<br>
+
 # About me
 - Realname: **[Feri]**
 - Don't know how to code, use github for git and hub.
@@ -16,7 +19,6 @@
 - Too much, cannot be listed here.
 
 
-![Random image](https://i.imgur.com/UKcwuI5.jpg)
-
-
-[![Aki176'stats](https://github-readme-stats.vercel.app/api?username=FeriEXP&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Stats:
+<p align="center"><a href="https://github.com/feriexp"><img src="https://github-readme-stats.vercel.app/api?username=feriexp&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/feriexp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feriexp&theme=radical&layout=compact"></a></p> 
