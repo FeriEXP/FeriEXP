@@ -2,12 +2,12 @@
 
 
 # About me
-- Nama: **[Feri]**
-- Status : Jomblo
-- Umur : 17
-- Fav : korea, japan 
-- Asal : Jawa timur/Trenggalek
-- zodiak : Pisces
+- **Nama**  : `Feri`
+- **Status**: `Mencitaimu`
+- **Umur**  : `17`
+- **Fav**   : `korea, japan`
+- **Asal**  : `Jawa timur/Trenggalek`
+- **Zodiak**: `Pisces`
 
 
 ### Skills
