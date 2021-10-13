@@ -13,7 +13,7 @@
 ### Skills
 - Tidur (100%)
 - Makan (100%)
-- Coli (100%)
+- Sange (100%)
 - Belajar kode (-1%)
 
 
