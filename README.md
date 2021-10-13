@@ -3,7 +3,7 @@
 
 # About me
 - **Nama**  : `Feri`
-- **Status**: `Mencitaimu`
+- **Status**: `Pelajar`
 - **Umur**  : `17`
 - **Fav**   : `korea, japan`
 - **Asal**  : `Jawa timur/Trenggalek`
