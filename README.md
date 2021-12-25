@@ -1,13 +1,10 @@
-![Feri](https://i.imgur.com/UKcwuI5.jpg)
-
-
 # About me
 - **Nama**  : `Feri`
 - **Status**: `Pelajar`
 - **Umur**  : `17`
 - **Fav**   : `korea, japan`
 - **Asal**  : `Jawa timur/Trenggalek`
-- **Zodiak**: `Pisces`
+- **Zodiak**: `Taurus`
 
 
 ### Skills
