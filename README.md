@@ -1,7 +1,7 @@
 # About me
-- **Nama**  : `Feri`
-- **Status**: `Pelajar`
-- **Umur**  : `17`
+- **Nama**  : `feri`
+- **Status**: `pelajar`
+- **Umur**  : `18`
 - **Fav**   : `korea`
 - **Asal**  : `Jawa timur/Trenggalek`
 - **Zodiak**: `Memek`
@@ -10,7 +10,7 @@
 ### Skills
 - Tidur (100%)
 - Makan (100%)
-- Sange (100%)
+- Sange (100000%)
 - Belajar kode (-1%)
 
 
