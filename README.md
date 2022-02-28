@@ -2,9 +2,9 @@
 - **Nama**  : `Feri`
 - **Status**: `Pelajar`
 - **Umur**  : `17`
-- **Fav**   : `korea, japan`
+- **Fav**   : `korea`
 - **Asal**  : `Jawa timur/Trenggalek`
-- **Zodiak**: `Taurus`
+- **Zodiak**: `Memek`
 
 
 ### Skills
