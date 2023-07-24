@@ -1,10 +1,9 @@
 # About me
 - **Nama**  : `feri`
-- **Status**: `pelajar`
+- **Status**: `Penganguran`
 - **Umur**  : `18`
-- **Fav**   : `korea`
-- **Asal**  : `Jawa timur/Trenggalek`
-- **Zodiak**: `Memek`
+- **Fav**   : `Cewe`
+- **Asal**  : `Jawa timur`
 
 
 ### Skills
