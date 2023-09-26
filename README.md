@@ -28,7 +28,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/per4mpok" target="blank"><img src="https://img.shields.io/badge/@xflicks-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/per4mpok" target="blank"><img src="https://img.shields.io/badge/Gama-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/ferikunn" target="blank"><img src="https://img.shields.io/badge/@ferikunn-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
