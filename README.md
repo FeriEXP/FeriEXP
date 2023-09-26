@@ -1,8 +1,8 @@
 # About me
 - **Nama**  : `feri`
 - **Status**: `Penganguran`
-- **Umur**  : `18`
-- **Fav**   : `Cewe`
+- **Umur**  : `19`
+- **Fav**   : `Kamu`
 - **Asal**  : `Jawa timur`
 
 
