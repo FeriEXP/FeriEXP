@@ -1,8 +1,8 @@
 # About me
-- **Nama**  : `feri`
-- **Status**: `Penganguran`
-- **Umur**  : `19`
-- **Fav**   : `Kamu`
+- **Nama**  : `Dave`
+- **Status**: `C E O`
+- **Umur**  : `22`
+- **Fav**   : `Songs`
 - **Asal**  : `Jawa timur`
 
 
